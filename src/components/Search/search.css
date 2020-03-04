@@ -1,0 +1,11 @@
+.searchbox{
+    border: 2px solid #000000;
+    width: 70%;
+    margin: auto;
+    margin-top: 1em;
+    padding: 1em;
+ }
+
+.allbuttons{
+    margin-top: 1em;
+}

@@ -1,0 +1,10 @@
+.banner{
+   border: 2px solid #000000;
+   width: 70%;
+   margin: auto;
+   margin-top: 3em;
+}
+
+.jumbotron{
+   background: transparent;
+}
